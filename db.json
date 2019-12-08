@@ -1,12 +1,12 @@
 {
-    "ver": 1,
+    "ver": 0,
     "section": [
         {
             "title": "sunday",
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Masala Dosa Updated, Sambhar, Coconut chutney",
+                    "description": "Masala Dosa, Sambhar, Coconut chutney",
                     "time": [
                         830,
                         1030
