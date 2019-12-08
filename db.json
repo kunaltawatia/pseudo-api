@@ -1,210 +1,136 @@
 {
-    "mess": {
-        "update": false,
-        "section": [
-            {
-                "title": "sunday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Masala Dosa, Sambhar, Coconut Chutney",
-                        "time": [
-                            830,
-                            1030
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Lemon Rice, Dal Fry, Lauki Kofta, Boondi Raita",
-                        "time": [
-                            1300,
-                            1500
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Peas Pulao, Dal Tadka, Chilli Potato",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "monday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Pyaaz Paratha, Red Chutney",
-                        "time": [
-                            715,
-                            930
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Plain Rice, Dal Makhni, Besan Ke Gatte, Curd",
-                        "time": [
-                            1200,
-                            1400
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Plain Rice, Arhar Dal, Egg Curry(Fry), Kadhai Paneer, Balushahi/Imarti Sweet",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "tuesday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Fried Idili, Sambhar, Coconut Chutney",
-                        "time": [
-                            715,
-                            930
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Plain Rice, Dal Tadka, Rajma masala, Seasonal Fruit",
-                        "time": [
-                            1200,
-                            1400
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Plain Rice, Kheer, Puri, Chole Aloo Tomato(Gravy)",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "wednesday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Medu Vada, Sambhar, Coconut Chutney",
-                        "time": [
-                            715,
-                            930
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Jeera Rice, Masoor Dal, Bhindi Masala, Masala Butter Milk",
-                        "time": [
-                            1200,
-                            1400
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Manchurian, Fried Rice, Panchratni Dal, Ice Cream",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "thursday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Uttapam, Sambhar, Coconut Chutney",
-                        "time": [
-                            715,
-                            930
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Jeera Rice, Moong Dal, Kadhi Pakoda, Aloo Palak/ Parwal/ Gobi, Seasonal Fruit",
-                        "time": [
-                            1200,
-                            1400
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Chole Bhature, Masoor Dal, Jeera Rice",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "friday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Sev Poha, Jalebi",
-                        "time": [
-                            715,
-                            930
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Plain Rice, Sabut Masoor Dal, Chilli Soyabean, Plain Roti, Curd",
-                        "time": [
-                            1200,
-                            1400
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Butter Roti, Basmati Rice, Dal Tadka, Matar Paneer/ Chicken, Besan Ki Barfi",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "saturday",
-                "data": [
-                    {
-                        "name": "breakfast",
-                        "description": "Aloo Paratha, Sauce, Pickle, Red Chutney, Green Garlic Chutney",
-                        "time": [
-                            830,
-                            1030
-                        ]
-                    },
-                    {
-                        "name": "lunch",
-                        "description": "Plain Rice, Arhar Dal, Navratan Korma, Masala Butter Milk",
-                        "time": [
-                            1300,
-                            1500
-                        ]
-                    },
-                    {
-                        "name": "dinner",
-                        "description": "Butter Roti, Basmati Rice, Malai Kofta, Dal Makhani, Fried Papad/ Crunchy Fries",
-                        "time": [
-                            2000,
-                            2200
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
+    ver: 1,
+    section: [{
+            title: "sunday",
+            data: [{
+                    name: "breakfast",
+                    description: "Masala Dosa Updated, Sambhar, Coconut chutney",
+                    time: [830, 1030],
+                },
+                {
+                    name: "lunch",
+                    description: "Urad Dal, Lauki Kofta, Rice, Boondi Raita",
+                    time: [1300, 1500]
+                },
+                {
+                    name: "dinner",
+                    description: "Fried Rice, Chilli Soyabean, Chana Dal",
+                    time: [2000, 2200]
+                }
+            ]
+        }, {
+            title: "monday",
+            data: [{
+                    name: "breakfast",
+                    description: "Dal Kachori, Green chutney, Tomato chutney / Mendu Vada, Sambhar, Coconut chutney",
+                    time: [715, 930]
+                },
+                {
+                    name: "lunch",
+                    description: "Jeera Rice, Dal Fry, Besan Gatte, Seasonal fruit",
+                    time: [1200, 1400]
+                },
+                {
+                    name: "dinner",
+                    description: "Rice, Chana Dal, Egg Curry/Paneer Curry, Ice Cream",
+                    time: [2000, 2200]
+                }
+            ]
+        },
+        {
+            title: "tuesday",
+            data: [{
+                    name: "breakfast",
+                    description: "Poori, Aloo Bhaji",
+                    time: [715, 930]
+                },
+                {
+                    name: "lunch",
+                    description: "Dal Makhani, Veg Keema Muttor, Rice, Curd",
+                    time: [1200, 1400]
+                },
+                {
+                    name: "dinner",
+                    description: "Chole, Plain Paratha, Chapati, Mix veg, Kheer",
+                    time: [2000, 2200]
+                }
+            ]
+        },
+        {
+            title: "wednesday",
+            data: [{
+                    name: "breakfast",
+                    description: "Mix Uttapam, Sambhar, Coconut chutney",
+                    time: [715, 930]
+                },
+                {
+                    name: "lunch",
+                    description: "Rice, Rajma, Lauki Chana Dry, Boondi raita",
+                    time: [1200, 1400]
+                },
+                {
+                    name: "dinner",
+                    description: "Paneer Gravey / Chicken Gravey , Peas Pulayo, Green Dal, Gulab Jamun, Butter roti",
+                    time: [2000, 2200]
+                }
+            ]
+        },
+        {
+            title: "thursday",
+            data: [{
+                    name: "breakfast",
+                    description: "Poha, Jalebi, Sev, Chilli + Chopped onion",
+                    time: [715, 930]
+                },
+                {
+                    name: "lunch",
+                    description: "Veg Biryani, Chana Dal, Bondi Raita, Aloo Gauwar fali / Aloo capsicum, Butter milk",
+                    time: [1200, 1400]
+                },
+                {
+                    name: "dinner",
+                    description: "Rice, Chilly Potato/Muttor Gobhi, Dal Fry",
+                    time: [2000, 2200]
+                }
+            ]
+        },
+        {
+            title: "friday",
+            data: [{
+                    name: "breakfast",
+                    description: "Fried Idli, Sambhar, Coconut chutney",
+                    time: [715, 930]
+                },
+                {
+                    name: "lunch",
+                    description: "Rice, Kadhi Pakoda, Aloo Palak (gravey), Seasonal fruit",
+                    time: [1200, 1400]
+                },
+                {
+                    name: "dinner",
+                    description: "Jeera Rice, Dum Aloo, Moong dal, Papad, Butter roti",
+                    time: [2000, 2200]
+                }
+            ]
+        },
+        {
+            title: "saturday",
+            data: [{
+                    name: "breakfast",
+                    description: "Aloo Paratha Tomato chutney, Sauce",
+                    time: [830, 1030]
+                },
+                {
+                    name: "lunch",
+                    description: "Malka Masoor Dal, Rice, Chana Masala (Black Chana), Curd",
+                    time: [1300, 1500]
+                },
+                {
+                    name: "dinner",
+                    description: "Rice, Cabbage Muttor, Masoor Dal Black",
+                    time: [2000, 2200]
+                }
+            ]
+        },
+    ],
 }
