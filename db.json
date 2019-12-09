@@ -1,5 +1,5 @@
 {
-    "ver": 0,
+    "ver": 1,
     "section": [
         {
             "title": "sunday",
@@ -37,8 +37,8 @@
                     "name": "breakfast",
                     "description": "Dal Kachori, Green chutney, Tomato chutney / Mendu Vada, Sambhar, Coconut chutney",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
@@ -64,10 +64,10 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Poori, Aloo Bhaji",
+                    "description": "Mix Uttapam, Sambhar, Coconut chutney",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
@@ -93,10 +93,10 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Mix Uttapam, Sambhar, Coconut chutney",
+                    "description": "Poori, Aloo Bhaji",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
@@ -124,8 +124,8 @@
                     "name": "breakfast",
                     "description": "Poha, Jalebi, Sev, Chilli + Chopped onion",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
@@ -153,8 +153,8 @@
                     "name": "breakfast",
                     "description": "Fried Idli, Sambhar, Coconut chutney",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
