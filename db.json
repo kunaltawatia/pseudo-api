@@ -1,5 +1,5 @@
 {
-    "ver": 1,
+    "ver": 0,
     "section": [
         {
             "title": "sunday",
@@ -64,7 +64,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Mix Uttapam, Sambhar, Coconut chutney",
+                    "description": "Poori, Aloo Bhaji",
                     "time": [
                         800,
                         1000
@@ -93,7 +93,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Poori, Aloo Bhaji",
+                    "description": "Mix Uttapam, Sambhar, Coconut chutney",
                     "time": [
                         800,
                         1000
