@@ -1,0 +1,165 @@
+{
+    "ver": 0,
+    "data": [
+        [
+            {
+                "name": "B 3",
+                "description": "Karwad - Khas Bagh - Rly Stn",
+                "time": 600
+            },
+            {
+                "name": "B 2",
+                "description": "Karwad(Type C Qtr) - Mandore PS - Vidyashram - MBM",
+                "time": 630
+            },
+            {
+                "name": "B 4",
+                "description": "Karwad(Type B Sub Stn) - Ratanada - DPS",
+                "time": 630
+            },
+            {
+                "name": "B 4",
+                "description": "Karwad - MBM - DPS",
+                "time": 1100
+            },
+            {
+                "name": "B 1",
+                "description": "Karwad - MBM - JJC",
+                "time": 1500
+            },
+            {
+                "name": "B 4",
+                "description": "Karwad - MBM - JJC",
+                "time": 1630
+            },
+            {
+                "name": "B 2",
+                "description": "Karwad - MBM - GPRA - JJC",
+                "time": 1745
+            },
+            {
+                "name": "B 3",
+                "description": "Karwad - Rly Stn - MBM - DPS - JJC",
+                "time": 1745
+            },
+            {
+                "name": "B 1",
+                "description": "Karwad - MBM - GPRA",
+                "time": 1830
+            }
+        ],
+        [
+            {
+                "name": "B 3",
+                "time": 600,
+                "description": "Karwad-Rly Stn"
+            },
+            {
+                "name": "B 2",
+                "time": 1100,
+                "description": "Karwad-MBM-JJC "
+            },
+            {
+                "name": "B 4",
+                "time": 1500,
+                "description": "Karwad-MBM-JJC "
+            },
+            {
+                "name": "B 2",
+                "time": 1630,
+                "description": "Karwad-MBM-JJC "
+            },
+            {
+                "name": "B 3",
+                "time": 1745,
+                "description": "Karwad-MBM-GPRA-JJC "
+            },
+            {
+                "name": "B 1",
+                "time": 1830,
+                "description": "Karwad-MBM-GPRA "
+            }
+        ]
+    ],
+    "dataIn": [
+        [
+            {
+                "name": "B 3",
+                "description": "Rly Stn - MBM - Karwad",
+                "time": 700
+            },
+            {
+                "name": "B 4",
+                "description": "DPS - Pal Road - Dalekhan Ki Chaki - SN Medical College - MBM - Karwad",
+                "time": 745
+            },
+            {
+                "name": "B 1",
+                "description": "GPRA - MBM - Karwad",
+                "time": 800
+            },
+            {
+                "name": "B 1",
+                "description": "DPS - MBM - Karwad (Type B Sub Stn)",
+                "time": 1300
+            },
+            {
+                "name": "B 2",
+                "description": "MBM - Vidyashram - Mandore PS - Karwad (Type C Qtr)",
+                "time": 1315
+            },
+            {
+                "name": "B 4",
+                "description": "JJC - MBM - Karwad",
+                "time": 1630
+            },
+            {
+                "name": "B 4",
+                "description": "JJC - MBM - Karwad",
+                "time": 1930
+            },
+            {
+                "name": "B 2",
+                "description": "JJC - MBM - Rly Stn - Karwad",
+                "time": 2100
+            },
+            {
+                "name": "B 3",
+                "description": "JJC - MBM - Karwad",
+                "time": 2200
+            }
+        ],
+        [
+            {
+                "name": "B 3",
+                "time": 700,
+                "description": "Rly Stn-MBM-Karwad"
+            },
+            {
+                "name": "B 1",
+                "time": 900,
+                "description": "GPRA- MBM-Karwad"
+            },
+            {
+                "name": "B 2",
+                "time": 1500,
+                "description": "JJC-MBM-Karwad"
+            },
+            {
+                "name": "B 4",
+                "time": 1930,
+                "description": "JJC-MBM-Karwad"
+            },
+            {
+                "name": "B 2",
+                "time": 2100,
+                "description": "JJC-MBM-Rly Stn-Karwad"
+            },
+            {
+                "name": "B 3",
+                "time": 2200,
+                "description": "JJC-MBM-Karwad"
+            }
+        ]
+    ]
+}
