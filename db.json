@@ -1,5 +1,5 @@
 {
-    "ver": 0,
+    "ver": 2,
     "section": [
         {
             "title": "sunday",
@@ -54,6 +54,14 @@
                     "description": "Rice, Chana Dal, Egg Curry/Paneer Curry, Ice Cream",
                     "time": [
                         2000,
+                        2200
+                    ]
+                },
+                {
+                    "name": "spandan intro-session",
+                    "description": "An event for the first year PG and UG Students",
+                    "time": [
+                        2045,
                         2200
                     ]
                 }
