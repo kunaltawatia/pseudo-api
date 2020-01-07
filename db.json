@@ -1,5 +1,5 @@
 {
-    "ver": 4,
+    "ver": 3,
     "section": [
         {
             "title": "sunday",
@@ -84,14 +84,6 @@
                     "time": [
                         2000,
                         2200
-                    ]
-                },
-                {
-                    "name": "Movie Screening",
-                    "description": "FORD VS FERRARI",
-                    "time": [
-                        2100,
-                        2300
                     ]
                 }
             ]
