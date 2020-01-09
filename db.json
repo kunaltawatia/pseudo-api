@@ -1,5 +1,5 @@
 {
-    "ver": 5,
+    "ver": 3,
     "section": [
         {
             "title": "sunday",
@@ -142,14 +142,6 @@
                     "time": [
                         2000,
                         2200
-                    ]
-                },
-                {
-                    "name": "IGNUS Intro-Session",
-                    "description": "To fill this semester with some color and mesmerizing experiences, the Student Gymkhana is back with its most awaited event, its Socio-Cultural Fest, IGNUS",
-                    "time": [
-                        2045,
-                        2300
                     ]
                 }
             ]
