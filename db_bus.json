@@ -1,5 +1,5 @@
 {
-    "ver": 0,
+    "ver": 1,
     "data": [
         [
             {
@@ -10,17 +10,12 @@
             {
                 "name": "B 2",
                 "description": "Karwad(Type C Qtr) - Mandore PS - Vidyashram - MBM",
-                "time": 630
+                "time": 800
             },
             {
                 "name": "B 4",
                 "description": "Karwad(Type B Sub Stn) - Ratanada - DPS",
-                "time": 630
-            },
-            {
-                "name": "B 4",
-                "description": "Karwad - MBM - DPS",
-                "time": 1100
+                "time": 800
             },
             {
                 "name": "B 1",
@@ -85,8 +80,8 @@
         [
             {
                 "name": "B 3",
-                "description": "Rly Stn - MBM - Karwad",
-                "time": 700
+                "description": "Rly Stn - MBM - Pal Balaji - Ashok Udyan - Shastri Nagar PS - MBM ( 8:20 ) - Paota - Karwad",
+                "time": 730
             },
             {
                 "name": "B 4",
