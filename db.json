@@ -1,5 +1,5 @@
 {
-    "ver": 3,
+    "ver": 4,
     "section": [
         {
             "title": "sunday",
@@ -37,8 +37,8 @@
                     "name": "breakfast",
                     "description": "Dal Kachori, Green chutney, Tomato chutney / Mendu Vada, Sambhar, Coconut chutney",
                     "time": [
-                        800,
-                        1000
+                        715,
+                        930
                     ]
                 },
                 {
@@ -66,8 +66,8 @@
                     "name": "breakfast",
                     "description": "Poori, Aloo Bhaji",
                     "time": [
-                        800,
-                        1000
+                        715,
+                        930
                     ]
                 },
                 {
@@ -95,8 +95,8 @@
                     "name": "breakfast",
                     "description": "Mix Uttapam, Sambhar, Coconut chutney",
                     "time": [
-                        800,
-                        1000
+                        715,
+                        930
                     ]
                 },
                 {
@@ -124,8 +124,8 @@
                     "name": "breakfast",
                     "description": "Poha, Jalebi, Sev, Chilli + Chopped onion",
                     "time": [
-                        800,
-                        1000
+                        715,
+                        930
                     ]
                 },
                 {
@@ -153,8 +153,8 @@
                     "name": "breakfast",
                     "description": "Fried Idli, Sambhar, Coconut chutney",
                     "time": [
-                        800,
-                        1000
+                        715,
+                        930
                     ]
                 },
                 {
@@ -182,8 +182,8 @@
                     "name": "breakfast",
                     "description": "Aloo Paratha Tomato chutney, Sauce",
                     "time": [
-                        830,
-                        1030
+                        715,
+                        930
                     ]
                 },
                 {
