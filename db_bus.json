@@ -1,5 +1,5 @@
 {
-    "ver": 1,
+    "ver": 2,
     "data": [
         [
             {
@@ -19,22 +19,22 @@
             },
             {
                 "name": "B 1",
-                "description": "Karwad - MBM - JJC",
+                "description": "Karwad - MBM - SN Medical College",
                 "time": 1500
             },
             {
                 "name": "B 4",
-                "description": "Karwad - MBM - JJC",
+                "description": "Karwad - MBM - SN Medical College",
                 "time": 1630
             },
             {
                 "name": "B 2",
-                "description": "Karwad - MBM - GPRA - JJC",
+                "description": "Karwad - MBM - SN Medical College",
                 "time": 1745
             },
             {
                 "name": "B 3",
-                "description": "Karwad - Rly Stn - MBM - DPS - JJC",
+                "description": "Karwad - Rly Stn - MBM - DPS - SN Medical College",
                 "time": 1745
             },
             {
@@ -47,32 +47,32 @@
             {
                 "name": "B 3",
                 "time": 600,
-                "description": "Karwad-Rly Stn"
+                "description": "Karwad - Rly Stn"
             },
             {
                 "name": "B 2",
                 "time": 1100,
-                "description": "Karwad-MBM-JJC "
+                "description": "Karwad - MBM - SN Medical College "
             },
             {
                 "name": "B 4",
                 "time": 1500,
-                "description": "Karwad-MBM-JJC "
+                "description": "Karwad - MBM - SN Medical College "
             },
             {
                 "name": "B 2",
                 "time": 1630,
-                "description": "Karwad-MBM-JJC "
+                "description": "Karwad - MBM - SN Medical College "
             },
             {
                 "name": "B 3",
                 "time": 1745,
-                "description": "Karwad-MBM-GPRA-JJC "
+                "description": "Karwad - MBM - SN Medical College "
             },
             {
                 "name": "B 1",
                 "time": 1830,
-                "description": "Karwad-MBM-GPRA "
+                "description": "Karwad - MBM"
             }
         ]
     ],
@@ -80,17 +80,12 @@
         [
             {
                 "name": "B 3",
-                "description": "Rly Stn - MBM - Pal Balaji - Ashok Udyan - Shastri Nagar PS - MBM ( 8:20 ) - Paota - Karwad",
-                "time": 730
-            },
-            {
-                "name": "B 4",
-                "description": "DPS - Pal Road - Dalekhan Ki Chaki - SN Medical College - MBM - Karwad",
-                "time": 745
+                "description": "Rly Stn - Pal Balaji - Ashok Udyan - Shastri Nagar PS - MBM ( 8:20 ) - Paota - Karwad",
+                "time": 645
             },
             {
                 "name": "B 1",
-                "description": "GPRA - MBM - Karwad",
+                "description": "MBM - Karwad",
                 "time": 800
             },
             {
@@ -105,22 +100,22 @@
             },
             {
                 "name": "B 4",
-                "description": "JJC - MBM - Karwad",
+                "description": "SN Medical College - MBM - Karwad",
                 "time": 1630
             },
             {
                 "name": "B 4",
-                "description": "JJC - MBM - Karwad",
+                "description": "SN Medical College - MBM - Karwad",
                 "time": 1930
             },
             {
                 "name": "B 2",
-                "description": "JJC - MBM - Rly Stn - Karwad",
+                "description": "SN Medical College - MBM - Rly Stn - Karwad",
                 "time": 2100
             },
             {
                 "name": "B 3",
-                "description": "JJC - MBM - Karwad",
+                "description": "SN Medical College - MBM - Karwad",
                 "time": 2200
             }
         ],
@@ -128,32 +123,32 @@
             {
                 "name": "B 3",
                 "time": 700,
-                "description": "Rly Stn-MBM-Karwad"
+                "description": "Rly Stn - MBM - Karwad"
             },
             {
                 "name": "B 1",
                 "time": 900,
-                "description": "GPRA- MBM-Karwad"
+                "description": "MBM - Karwad"
             },
             {
                 "name": "B 2",
                 "time": 1500,
-                "description": "JJC-MBM-Karwad"
+                "description": "SN Medical College - MBM - Karwad"
             },
             {
                 "name": "B 4",
                 "time": 1930,
-                "description": "JJC-MBM-Karwad"
+                "description": "SN Medical College - MBM - Karwad"
             },
             {
                 "name": "B 2",
                 "time": 2100,
-                "description": "JJC-MBM-Rly Stn-Karwad"
+                "description": "SN Medical College - MBM - Rly Stn - Karwad"
             },
             {
                 "name": "B 3",
                 "time": 2200,
-                "description": "JJC-MBM-Karwad"
+                "description": "SN Medical College - MBM - Karwad"
             }
         ]
     ]
