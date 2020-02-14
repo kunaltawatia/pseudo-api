@@ -1,5 +1,5 @@
 {
-    "ver": 6,
+    "ver": 7,
     "section": [
         {
             "title": "sunday",
@@ -151,7 +151,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Fried Idli, Sambhar, Coconut chutney",
+                    "description": "Aloo Paratha Tomato chutney, Sauce",
                     "time": [
                         715,
                         930
@@ -180,7 +180,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Aloo Paratha Tomato chutney, Sauce",
+                    "description": "Fried Idli, Sambhar, Coconut chutney",
                     "time": [
                         830,
                         1030
