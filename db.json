@@ -1,5 +1,5 @@
 {
-    "ver": 6,
+    "ver": 8,
     "section": [
         {
             "title": "sunday",
@@ -14,7 +14,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Urad Dal, Lauki Kofta, Rice, Boondi Raita",
+                    "description": "Aloo muttor, Dal Fry, Jeera Rice, Curd",
                     "time": [
                         1300,
                         1500
@@ -22,7 +22,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Fried Rice, Chilli Soyabean, Chana Dal",
+                    "description": "Navratan korma, Butter Roti, Papad, Peas Pulao",
                     "time": [
                         2000,
                         2200
@@ -35,7 +35,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Dal Kachori, Green chutney, Tomato chutney / Mendu Vada, Sambhar, Coconut chutney",
+                    "description": "Mix Uttapam, Sambhar, Coconut chutney",
                     "time": [
                         715,
                         930
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Jeera Rice, Dal Fry, Besan Gatte, Seasonal fruit",
+                    "description": "Chana masala, Moong Dal, Plain Rice, Seasonal Fruit, Curd",
                     "time": [
                         1200,
                         1400
@@ -51,7 +51,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Rice, Chana Dal, Egg Curry/Paneer Curry, Ice Cream",
+                    "description": "Egg Curry, Kadai Paneer, Butter Roti, Arhar Dal, Rice, Gulab Jamun",
                     "time": [
                         2000,
                         2200
@@ -64,7 +64,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Poori, Aloo Bhaji",
+                    "description": "Poha, Jalebi, Sev, Chilli + Chopped onion",
                     "time": [
                         715,
                         930
@@ -72,7 +72,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Dal Makhani, Veg Keema Muttor, Rice, Curd",
+                    "description": "Malai Kofta, Masoor Dal Black, Plain Rice, Green Chutney, Curd",
                     "time": [
                         1200,
                         1400
@@ -80,7 +80,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Chole, Plain Paratha, Chapati, Mix veg, Kheer",
+                    "description": "Aloo Gobi, Urad Dal, Jeera Rice",
                     "time": [
                         2000,
                         2200
@@ -93,7 +93,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Mix Uttapam, Sambhar, Coconut chutney",
+                    "description": "Fried Idli/Mendu Vada, Sambhar, Coconut Chutney",
                     "time": [
                         715,
                         930
@@ -101,7 +101,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Rice, Rajma, Lauki Chana Dry, Boondi raita",
+                    "description": "Aloo Palak, Jeera Rice, Kadi Pakoda, Green Chutney",
                     "time": [
                         1200,
                         1400
@@ -109,7 +109,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Paneer Gravey / Chicken Gravey , Peas Pulayo, Green Dal, Gulab Jamun, Butter roti",
+                    "description": "Butter Paneer / Chicken Gravey, Green Dal, Peas Pulayo, Ice Cream",
                     "time": [
                         2000,
                         2200
@@ -122,7 +122,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Poha, Jalebi, Sev, Chilli + Chopped onion",
+                    "description": "Gobi paratha, Sauce, Green Chutney\nor\nMethi paratha, Aloo Tomato gravy",
                     "time": [
                         715,
                         930
@@ -130,7 +130,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Veg Biryani, Chana Dal, Bondi Raita, Aloo Gauwar fali / Aloo capsicum, Butter milk",
+                    "description": "Beshan Gatte, Dal Fry, Tomato Rice, Seasonal Fruit",
                     "time": [
                         1200,
                         1400
@@ -138,7 +138,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Rice, Chilly Potato/Muttor Gobhi, Dal Fry",
+                    "description": "Mix Veg, Veg Biryani, Boondi Raita, Dal Tadka, Plain Parathe",
                     "time": [
                         2000,
                         2200
@@ -151,7 +151,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Fried Idli, Sambhar, Coconut chutney",
+                    "description": "Dal Kachori, Green Chutney, Sauce",
                     "time": [
                         715,
                         930
@@ -159,7 +159,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Rice, Kadhi Pakoda, Aloo Palak (gravey), Seasonal fruit",
+                    "description": "Red Pumpkin, Masoor Dal, Lemon Rice, Rajma, Boondi Raita",
                     "time": [
                         1200,
                         1400
@@ -167,7 +167,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Jeera Rice, Dum Aloo, Moong dal, Papad, Butter roti",
+                    "description": "Poori, Aloo Tomato Chole, Urad Dal, Plain Rice, Kheer",
                     "time": [
                         2000,
                         2200
@@ -180,7 +180,7 @@
             "data": [
                 {
                     "name": "breakfast",
-                    "description": "Aloo Paratha Tomato chutney, Sauce",
+                    "description": "Aloo Paratha, Tomato chutney, Sauce",
                     "time": [
                         830,
                         1030
@@ -188,7 +188,7 @@
                 },
                 {
                     "name": "lunch",
-                    "description": "Malka Masoor Dal, Rice, Chana Masala (Black Chana), Curd",
+                    "description": "Lauki Kofta, Moong Dal, Fried Rice, Butter Milk, Green Chutney",
                     "time": [
                         1300,
                         1500
@@ -196,7 +196,7 @@
                 },
                 {
                     "name": "dinner",
-                    "description": "Rice, Cabbage Muttor, Masoor Dal Black",
+                    "description": "Bhindi masala, Chana Dal, Jeera rice",
                     "time": [
                         2000,
                         2200
