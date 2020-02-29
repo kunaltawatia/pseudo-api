@@ -4,18 +4,18 @@
         [
             {
                 "name": "B 3",
-                "description": "Karwad - Khas Bagh - Rly Stn",
+                "description": "Karwad - Khas Bagh - Rly Stn - MBM",
                 "time": 600
             },
             {
                 "name": "B 2",
                 "description": "Karwad(Type C Qtr) - Mandore PS - Vidyashram - MBM",
-                "time": 800
+                "time": 700
             },
             {
                 "name": "B 4",
                 "description": "Karwad(Type B Sub Stn) - Ratanada - DPS",
-                "time": 800
+                "time": 700
             },
             {
                 "name": "B 1",
@@ -39,7 +39,7 @@
             },
             {
                 "name": "B 1",
-                "description": "Karwad - MBM - GPRA",
+                "description": "Karwad - MBM",
                 "time": 1830
             }
         ],
@@ -47,7 +47,7 @@
             {
                 "name": "B 3",
                 "time": 600,
-                "description": "Karwad - Rly Stn"
+                "description": "Karwad - Rly Stn - MBM"
             },
             {
                 "name": "B 2",
@@ -60,7 +60,12 @@
                 "description": "Karwad - MBM - SN Medical College "
             },
             {
-                "name": "B 2",
+                "name": "B 1",
+                "time": 1630,
+                "description": "Karwad - MBM - SN Medical College "
+            },
+            {
+                "name": "B 3",
                 "time": 1630,
                 "description": "Karwad - MBM - SN Medical College "
             },
@@ -80,23 +85,23 @@
         [
             {
                 "name": "B 3",
-                "description": "Rly Stn - Pal Balaji - Ashok Udyan - Shastri Nagar PS - MBM ( 8:20 ) - Paota - Karwad",
-                "time": 645
+                "description": "MBM - Pal Balaji ( 8:00 ) - Shastri Nagar PS - MBM ( 8:20 ) - Karwad",
+                "time": 730
             },
             {
                 "name": "B 1",
-                "description": "MBM - Karwad",
+                "description": "DPS - MBM - Karwad",
                 "time": 800
             },
             {
-                "name": "B 1",
-                "description": "DPS - MBM - Karwad (Type B Sub Stn)",
-                "time": 1300
+                "name": "B 4",
+                "description": "DPS - SN Medical College - MBM - Karwad",
+                "time": 1345
             },
             {
                 "name": "B 2",
-                "description": "MBM - Vidyashram - Mandore PS - Karwad (Type C Qtr)",
-                "time": 1315
+                "description": "Vidyashram - Mandore PS - Karwad (Type C Qtr)",
+                "time": 1400
             },
             {
                 "name": "B 4",
@@ -122,8 +127,8 @@
         [
             {
                 "name": "B 3",
-                "time": 700,
-                "description": "Rly Stn - MBM - Karwad"
+                "time": 800,
+                "description": "MBM - Karwad"
             },
             {
                 "name": "B 1",
@@ -136,17 +141,27 @@
                 "description": "SN Medical College - MBM - Karwad"
             },
             {
-                "name": "B 4",
-                "time": 1930,
+                "name": "B 1",
+                "time": 1700,
                 "description": "SN Medical College - MBM - Karwad"
             },
             {
                 "name": "B 2",
+                "time": 1930,
+                "description": "SN Medical College - MBM - Karwad"
+            },
+            {
+                "name": "B 3",
                 "time": 2100,
                 "description": "SN Medical College - MBM - Rly Stn - Karwad"
             },
             {
-                "name": "B 3",
+                "name": "B 4",
+                "time": 2100,
+                "description": "SN Medical College - MBM - Rly Stn - Karwad"
+            },
+            {
+                "name": "B 1",
                 "time": 2200,
                 "description": "SN Medical College - MBM - Karwad"
             }
