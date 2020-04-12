@@ -1,5 +1,5 @@
 {
-    "ver": 8,
+    "ver": 9,
     "section": [
         {
             "title": "sunday",
@@ -17,14 +17,14 @@
                     "description": "Aloo muttor, Dal Fry, Jeera Rice, Curd",
                     "time": [
                         1300,
-                        1500
+                        1430
                     ]
                 },
                 {
                     "name": "dinner",
                     "description": "Navratan korma, Butter Roti, Papad, Peas Pulao",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
@@ -37,15 +37,15 @@
                     "name": "breakfast",
                     "description": "Mix Uttapam, Sambhar, Coconut chutney",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
                     "name": "lunch",
                     "description": "Chana masala, Moong Dal, Plain Rice, Seasonal Fruit, Curd",
                     "time": [
-                        1200,
+                        1230,
                         1400
                     ]
                 },
@@ -53,7 +53,7 @@
                     "name": "dinner",
                     "description": "Egg Curry, Kadai Paneer, Butter Roti, Arhar Dal, Rice, Gulab Jamun",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
@@ -66,15 +66,15 @@
                     "name": "breakfast",
                     "description": "Poha, Jalebi, Sev, Chilli + Chopped onion",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
                     "name": "lunch",
                     "description": "Malai Kofta, Masoor Dal Black, Plain Rice, Green Chutney, Curd",
                     "time": [
-                        1200,
+                        1230,
                         1400
                     ]
                 },
@@ -82,7 +82,7 @@
                     "name": "dinner",
                     "description": "Aloo Gobi, Urad Dal, Jeera Rice",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
@@ -95,15 +95,15 @@
                     "name": "breakfast",
                     "description": "Fried Idli/Mendu Vada, Sambhar, Coconut Chutney",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
                     "name": "lunch",
                     "description": "Aloo Palak, Jeera Rice, Kadi Pakoda, Green Chutney",
                     "time": [
-                        1200,
+                        1230,
                         1400
                     ]
                 },
@@ -111,7 +111,7 @@
                     "name": "dinner",
                     "description": "Butter Paneer / Chicken Gravey, Green Dal, Peas Pulayo, Ice Cream",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
@@ -124,15 +124,15 @@
                     "name": "breakfast",
                     "description": "Gobi paratha, Sauce, Green Chutney\nor\nMethi paratha, Aloo Tomato gravy",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
                     "name": "lunch",
                     "description": "Beshan Gatte, Dal Fry, Tomato Rice, Seasonal Fruit",
                     "time": [
-                        1200,
+                        1230,
                         1400
                     ]
                 },
@@ -140,7 +140,7 @@
                     "name": "dinner",
                     "description": "Mix Veg, Veg Biryani, Boondi Raita, Dal Tadka, Plain Parathe",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
@@ -153,15 +153,15 @@
                     "name": "breakfast",
                     "description": "Dal Kachori, Green Chutney, Sauce",
                     "time": [
-                        715,
-                        930
+                        800,
+                        1000
                     ]
                 },
                 {
                     "name": "lunch",
                     "description": "Red Pumpkin, Masoor Dal, Lemon Rice, Rajma, Boondi Raita",
                     "time": [
-                        1200,
+                        1230,
                         1400
                     ]
                 },
@@ -169,7 +169,7 @@
                     "name": "dinner",
                     "description": "Poori, Aloo Tomato Chole, Urad Dal, Plain Rice, Kheer",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
@@ -191,14 +191,14 @@
                     "description": "Lauki Kofta, Moong Dal, Fried Rice, Butter Milk, Green Chutney",
                     "time": [
                         1300,
-                        1500
+                        1430
                     ]
                 },
                 {
                     "name": "dinner",
                     "description": "Bhindi masala, Chana Dal, Jeera rice",
                     "time": [
-                        2000,
+                        2030,
                         2200
                     ]
                 }
