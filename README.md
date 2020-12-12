@@ -2,4 +2,4 @@
 
 A pseudo REST server
 
-[![](https://img.shields.io/badge/Donate-Jupyter?style=for-the-badge)](https://razorpay.webug.space/kunaltawatia/pseudo-api)
+<img src="https://i.imgur.com/IqVOAvk.jpg" width="200"/>
